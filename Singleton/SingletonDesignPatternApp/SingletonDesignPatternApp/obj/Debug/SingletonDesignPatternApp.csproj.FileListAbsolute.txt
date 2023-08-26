@@ -1,0 +1,8 @@
+K:\Design Patterns\C# Design Patterns\2. Singleton\SingletonDesignPatternApp\SingletonDesignPatternApp\bin\Debug\SingletonDesignPatternApp.exe.config
+K:\Design Patterns\C# Design Patterns\2. Singleton\SingletonDesignPatternApp\SingletonDesignPatternApp\bin\Debug\SingletonDesignPatternApp.exe
+K:\Design Patterns\C# Design Patterns\2. Singleton\SingletonDesignPatternApp\SingletonDesignPatternApp\bin\Debug\SingletonDesignPatternApp.pdb
+K:\Design Patterns\C# Design Patterns\2. Singleton\SingletonDesignPatternApp\SingletonDesignPatternApp\obj\Debug\SingletonDesignPatternApp.csproj.AssemblyReference.cache
+K:\Design Patterns\C# Design Patterns\2. Singleton\SingletonDesignPatternApp\SingletonDesignPatternApp\obj\Debug\SingletonDesignPatternApp.csproj.SuggestedBindingRedirects.cache
+K:\Design Patterns\C# Design Patterns\2. Singleton\SingletonDesignPatternApp\SingletonDesignPatternApp\obj\Debug\SingletonDesignPatternApp.csproj.CoreCompileInputs.cache
+K:\Design Patterns\C# Design Patterns\2. Singleton\SingletonDesignPatternApp\SingletonDesignPatternApp\obj\Debug\SingletonDesignPatternApp.exe
+K:\Design Patterns\C# Design Patterns\2. Singleton\SingletonDesignPatternApp\SingletonDesignPatternApp\obj\Debug\SingletonDesignPatternApp.pdb
