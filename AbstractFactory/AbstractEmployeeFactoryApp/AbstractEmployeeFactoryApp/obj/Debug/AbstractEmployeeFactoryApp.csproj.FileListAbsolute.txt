@@ -1,0 +1,8 @@
+K:\Design Patterns\C# Design Patterns\3. AbstractFactory\AbstractEmployeeFactoryApp\AbstractEmployeeFactoryApp\bin\Debug\AbstractEmployeeFactoryApp.exe.config
+K:\Design Patterns\C# Design Patterns\3. AbstractFactory\AbstractEmployeeFactoryApp\AbstractEmployeeFactoryApp\bin\Debug\AbstractEmployeeFactoryApp.exe
+K:\Design Patterns\C# Design Patterns\3. AbstractFactory\AbstractEmployeeFactoryApp\AbstractEmployeeFactoryApp\bin\Debug\AbstractEmployeeFactoryApp.pdb
+K:\Design Patterns\C# Design Patterns\3. AbstractFactory\AbstractEmployeeFactoryApp\AbstractEmployeeFactoryApp\obj\Debug\AbstractEmployeeFactoryApp.csproj.AssemblyReference.cache
+K:\Design Patterns\C# Design Patterns\3. AbstractFactory\AbstractEmployeeFactoryApp\AbstractEmployeeFactoryApp\obj\Debug\AbstractEmployeeFactoryApp.csproj.SuggestedBindingRedirects.cache
+K:\Design Patterns\C# Design Patterns\3. AbstractFactory\AbstractEmployeeFactoryApp\AbstractEmployeeFactoryApp\obj\Debug\AbstractEmployeeFactoryApp.csproj.CoreCompileInputs.cache
+K:\Design Patterns\C# Design Patterns\3. AbstractFactory\AbstractEmployeeFactoryApp\AbstractEmployeeFactoryApp\obj\Debug\AbstractEmployeeFactoryApp.exe
+K:\Design Patterns\C# Design Patterns\3. AbstractFactory\AbstractEmployeeFactoryApp\AbstractEmployeeFactoryApp\obj\Debug\AbstractEmployeeFactoryApp.pdb
